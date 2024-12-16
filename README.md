@@ -4,6 +4,7 @@ Mohon Maaf Bapak Untuk Quiz 1 dan Quiz 2 tidak berada dalam repository yang sama
 Keterangan:
 
 Quiz 1 = sorting.py
+
 Quis 2 = naive.py dan conquer.py
 
 Muhammad Alif Risaldy
