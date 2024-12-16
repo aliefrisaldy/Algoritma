@@ -1,4 +1,10 @@
 # Algoritma
+Mohon Maaf Bapak Untuk Quiz 1 dan Quiz 2 tidak berada dalam repository yang sama dan folder yang tidak terpisah sehingga saya mengumpulkan link yang sama pada pengumpulan
+
+Keterangan:
+
+Quiz 1 = sorting.py
+Quis 2 = naive.py dan conquer.py
 
 Muhammad Alif Risaldy
 
