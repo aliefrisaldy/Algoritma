@@ -1,5 +1,5 @@
 # Algoritma
-Mohon Maaf Bapak Untuk Quiz 1 dan Quiz 2 tidak berada dalam repository yang sama dan folder yang tidak terpisah sehingga saya mengumpulkan link yang sama pada pengumpulan
+Mohon Maaf Bapak Untuk Quiz 1 dan Quiz 2 berada dalam repository yang sama dan folder yang tidak terpisah sehingga saya mengumpulkan link yang sama pada pengumpulan
 
 Keterangan:
 
